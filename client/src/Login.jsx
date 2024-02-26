@@ -22,7 +22,7 @@ function Login() {
   };
   return (
     <div>
-      <h2 className="bg-blue">Login</h2>
+      <h2 className="bg-sup">Login</h2>
       <form onSubmit={handleSubmit}>
         <label htmlFor="email">
           <strong>Email:</strong>

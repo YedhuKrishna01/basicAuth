@@ -21,7 +21,7 @@ function Signup() {
   };
   return (
     <div>
-      <h2 className="bg-blue">Register</h2>
+      <h2 className="bg-sup">Register</h2>
       <form onSubmit={handleSubmit}>
         <label htmlFor="name">
           <strong>Name:</strong>
